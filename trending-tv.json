@@ -1,0 +1,388 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/gHbDo5fvkx4MdSbkqodjDjKJN2D.jpg",
+      "id": 243954,
+      "name": "Motorheads",
+      "original_name": "Motorheads",
+      "overview": "After moving to Ironwood, siblings Caitlyn and Zac Torres are drawn into a thrilling car culture where street racing reigns and high school status is all about your ride. Haunted by their father's dark past, they join forces with loner Curtis and outcast Marcel to rebuild his legendary car.",
+      "poster_path": "/jglGmYMPEiHD7tVncvif7WtCOBJ.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [18],
+      "popularity": 26.8007,
+      "first_air_date": "2025-05-20",
+      "vote_average": 10,
+      "vote_count": 2,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/gKSbTwTvdfJYAJyTNOxlpNoiktH.jpg",
+      "id": 100088,
+      "name": "The Last of Us",
+      "original_name": "The Last of Us",
+      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "poster_path": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [18],
+      "popularity": 349.7323,
+      "first_air_date": "2023-01-15",
+      "vote_average": 8.566,
+      "vote_count": 5974,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
+      "id": 83867,
+      "name": "Andor",
+      "original_name": "Andor",
+      "overview": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+      "poster_path": "/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [10765, 10759, 18],
+      "popularity": 133.3697,
+      "first_air_date": "2022-09-21",
+      "vote_average": 8.2,
+      "vote_count": 1493,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
+      "id": 241554,
+      "name": "Murderbot",
+      "original_name": "Murderbot",
+      "overview": "In a high-tech future, a rogue security robot secretly gains free will. To stay hidden, it reluctantly joins a new mission protecting scientists on a dangerous planet...even though it just wants to binge soap operas.",
+      "poster_path": "/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [35, 18, 10765],
+      "popularity": 178.5157,
+      "first_air_date": "2025-05-15",
+      "vote_average": 7.729,
+      "vote_count": 35,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/nBrkOZyI75artyizuBFeya48KbO.jpg",
+      "id": 86831,
+      "name": "Love, Death & Robots",
+      "original_name": "Love, Death & Robots",
+      "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+      "poster_path": "/asDqvkE66EegtKJJXIRhBJPxscr.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [16, 10765],
+      "popularity": 118.6799,
+      "first_air_date": "2019-03-15",
+      "vote_average": 8.2,
+      "vote_count": 3523,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+      "id": 87917,
+      "name": "For All Mankind",
+      "original_name": "For All Mankind",
+      "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+      "poster_path": "/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [18, 10765, 10768],
+      "popularity": 43.1373,
+      "first_air_date": "2019-11-01",
+      "vote_average": 7.706,
+      "vote_count": 780,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/atb20IUkdYcZISq3DJ769nc3h1G.jpg",
+      "id": 69478,
+      "name": "The Handmaid's Tale",
+      "original_name": "The Handmaid's Tale",
+      "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship. A TV adaptation of Margaret Atwood's novel.",
+      "poster_path": "/qdWEaWkIQIjANGFeskheXpP0mm1.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [18, 10765],
+      "popularity": 143.5791,
+      "first_air_date": "2017-04-26",
+      "vote_average": 8.185,
+      "vote_count": 2893,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/cxejGoxpynd144zaivyEKFxCktm.jpg",
+      "id": 247718,
+      "name": "MobLand",
+      "original_name": "MobLand",
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "poster_path": "/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [80, 18],
+      "popularity": 70.6112,
+      "first_air_date": "2025-03-30",
+      "vote_average": 8.5,
+      "vote_count": 110,
+      "origin_country": [
+        "GB",
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/dQMWH3mzHCDsNJpclNiA7lDTN0B.jpg",
+      "id": 200875,
+      "name": "IT: Welcome to Derry",
+      "original_name": "IT: Welcome to Derry",
+      "overview": "Prequel to IT beginning in 1960s also covering origins of Pennywise the Clown.",
+      "poster_path": "/a4oBCgSwBFm7TWsDFb58uITpQVp.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [9648, 18],
+      "popularity": 10.975,
+      "first_air_date": "",
+      "vote_average": 0,
+      "vote_count": 0,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/aijJqFjhyRA8g7xRg6KUdoExynk.jpg",
+      "id": 106388,
+      "name": "Shining Girls",
+      "original_name": "Shining Girls",
+      "overview": "Years after a brutal attack left her in a constantly shifting reality, Kirby Mazrachi learns that a recent murder is linked to her assault. She teams with veteran reporter Dan Velazquez to understand her ever-changing present—and confront her past.",
+      "poster_path": "/qmN97JxhZHgCThRqgzaiSF7C2mj.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [18, 9648, 80],
+      "popularity": 9.3723,
+      "first_air_date": "2022-04-28",
+      "vote_average": 7.66,
+      "vote_count": 172,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "id": 37854,
+      "name": "One Piece",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "ja",
+      "genre_ids": [10759, 35, 16],
+      "popularity": 59.8706,
+      "first_air_date": "1999-10-20",
+      "vote_average": 8.722,
+      "vote_count": 4873,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "backdrop_path": "/c1M3AWnwaVaVXDj7vPDbuu4uHap.jpg",
+      "id": 247767,
+      "name": "The Studio",
+      "original_name": "The Studio",
+      "overview": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
+      "poster_path": "/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [35],
+      "popularity": 41.1848,
+      "first_air_date": "2025-03-25",
+      "vote_average": 7.325,
+      "vote_count": 63,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/8zfLJUB20LpFiIMoMHmC5u43YH1.jpg",
+      "id": 247619,
+      "name": "Overcompensating",
+      "original_name": "Overcompensating",
+      "overview": "Closeted former football player and homecoming king Benny becomes fast friends with Carmen, a high school outsider on a mission to fit in at all costs. With guidance from Benny’s older sister and her campus-legend boyfriend, Benny and Carmen juggle horrible hookups, flavored vodka, and fake IDs.",
+      "poster_path": "/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [35],
+      "popularity": 46.4274,
+      "first_air_date": "2025-05-15",
+      "vote_average": 6.875,
+      "vote_count": 16,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/k4GHSwS1IuVJNUHcoMEiwr7lWag.jpg",
+      "id": 270848,
+      "name": "The Lost National Treasure",
+      "original_name": "国宝迷踪",
+      "overview": "After his mentor Zan Maochang’s death, archaeologist Fang Kun joins an excavation of a newly discovered tomb, where he reunites with his former lover, Luo Qing. Their investigation sparks controversy and draws the attention of artifact criminals. Together with Qi Dacang from the public security bureau, they must confront challenges to protect the tomb and preserve cultural heritage.",
+      "poster_path": "/ddT3cKTaH2hu8RbBSsqLx2yE0Sa.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "zh",
+      "genre_ids": [18, 9648, 10759],
+      "popularity": 2.5894,
+      "first_air_date": "2025-05-20",
+      "vote_average": 0,
+      "vote_count": 0,
+      "origin_country": [
+        "CN"
+      ]
+    },
+    {
+      "backdrop_path": "/1SLimeCtDZhk9CCKj4qr435yvPT.jpg",
+      "id": 252640,
+      "name": "Legend of Zang Hai",
+      "original_name": "藏海传",
+      "overview": "\"Legend of Zang Hai\" follows the son of Imperial Astronomer Kuai Duo. Consumed by vengeance, he spends a decade honing his skills. Assuming the name Zang Hai, he ventures into the capital to uncover the truth, avenge his family, and restore justice.",
+      "poster_path": "/6Nn2qwv2GrQ1cHkrgwCeSdEbbw8.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "zh",
+      "genre_ids": [18],
+      "popularity": 35.0109,
+      "first_air_date": "2025-05-18",
+      "vote_average": 7,
+      "vote_count": 3,
+      "origin_country": [
+        "CN"
+      ]
+    },
+    {
+      "backdrop_path": "/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "id": 194583,
+      "name": "The Walking Dead: Dead City",
+      "original_name": "The Walking Dead: Dead City",
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "poster_path": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [10759, 18, 10765],
+      "popularity": 47.4262,
+      "first_air_date": "2023-06-18",
+      "vote_average": 8,
+      "vote_count": 596,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/eElF5eTwJyXh6hFEFa8LDMEmnHz.jpg",
+      "id": 224819,
+      "name": "Dear Hongrang",
+      "original_name": "탄금",
+      "overview": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+      "poster_path": "/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "ko",
+      "genre_ids": [18, 9648],
+      "popularity": 58.2558,
+      "first_air_date": "2025-05-16",
+      "vote_average": 6.778,
+      "vote_count": 9,
+      "origin_country": [
+        "KR"
+      ]
+    },
+    {
+      "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+      "id": 1399,
+      "name": "Game of Thrones",
+      "original_name": "Game of Thrones",
+      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [10765, 18, 10759],
+      "popularity": 190.3087,
+      "first_air_date": "2011-04-17",
+      "vote_average": 8.5,
+      "vote_count": 25002,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+      "id": 239770,
+      "name": "Doctor Who",
+      "original_name": "Doctor Who",
+      "overview": "The Doctor and his companion travel across time and space encountering incredible friends and foes.",
+      "poster_path": "/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [10759, 18, 10765],
+      "popularity": 28.117,
+      "first_air_date": "2024-05-11",
+      "vote_average": 6.471,
+      "vote_count": 206,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "backdrop_path": "/sXBNhPtQKSqzj00LPyB2bfsPXWR.jpg",
+      "id": 255779,
+      "name": "Bet",
+      "original_name": "Bet",
+      "overview": "At a private school where gambling determines social status, a skillful new student with a mysterious past is shaking things up — and betting on revenge.",
+      "poster_path": "/e3ENTAEDEO949khpVkJWgcWnwGG.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [18, 9648, 80],
+      "popularity": 26.0214,
+      "first_air_date": "2025-05-15",
+      "vote_average": 6.794,
+      "vote_count": 17,
+      "origin_country": [
+        "CA"
+      ]
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
